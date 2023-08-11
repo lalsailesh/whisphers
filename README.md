@@ -45,9 +45,9 @@ This Website aims to revolutionize the way content is published and consumed on 
 
 ## Usage
 
-- Register an account or log in to an existing one.
+1 Register an account or log in to an existing one.
 
-- Create a new blog or browse existing blogs.
+2 Create a new blog or browse existing blogs.
 
-- Compose and publish articles on your blog.
+3 Compose and publish articles on your blog.
 
