@@ -41,35 +41,7 @@ This Website aims to revolutionize the way content is published and consumed on 
 
 - HTML/CSS
 
-## Installation
-
-To run this Website locally, follow these steps:
-
-1. Clone the repository:
-
-```
-https://github.com/rishii100/Odyssey-Hackathon-Submission.git
-```
-
-2. Navigate to the project directory:
-
-```
-cd Odyssey-Hackathon-Submission
-```
-
-3. Install dependencies:
-
-```
-npm install
-```
-
-4. Run the development server:
-
-```
-npm start
-```
-
-5. Visit `http://localhost:3000` in your web browser to access the website.
+ Visit `http://localhost:3000` in your web browser to access the website.
 
 ## Usage
 
@@ -79,6 +51,3 @@ npm start
 
 - Compose and publish articles on your blog.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). 
